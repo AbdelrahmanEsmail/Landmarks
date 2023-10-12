@@ -34,6 +34,7 @@ struct LandmarkList: View {
                 }
             }
             .navigationTitle("Landmarks")
+            .frame(minWidth: 300)
         } detail: {
             Text("Select a Landmark")
         }
