@@ -12,25 +12,10 @@ This iOS app, "Landmarks," is a project I built following SwiftUI tutorial. It s
 ## Getting Started
 To run this project locally, ensure you have the following installed:
 
-- Xcode (compatible with SwiftUI)
+- Xcode 15 (compatible with SwiftUI)
 - Swift (compatible version with the tutorial)
 
-Follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/AbdelrahmanEsmail/Landmarks
-    ```
-
-2. Open the project in Xcode:
-
-    ```bash
-    cd Landmarks
-    open Landmarks.xcodeproj
-    ```
-
-3. Build and run the project in Xcode.
+ Build and run the project in Xcode.
 
 ## Learnings
 Throughout the development of this project, I gained valuable insights and skills in the following areas:
@@ -42,9 +27,6 @@ Throughout the development of this project, I gained valuable insights and skill
 - **Navigation in SwiftUI:** Implementing navigation views and navigation links to create a seamless user experience.
 
 - **Animations:** Utilizing SwiftUI's animation capabilities to enhance the visual appeal of the app.
-
-## Acknowledgments
-This project was inspired by and follows the Apple SwiftUI tutorial. Special thanks to Apple for providing excellent learning resources and documentation.
 
 ## Future Enhancements
 - Incorporate additional features, such as user authentication or a map view.
